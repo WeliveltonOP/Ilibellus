@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186247167032",
+    "project_id": "ilibellus",
+    "storage_bucket": "ilibellus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186247167032:android:c5896405955ee552583acd",
+        "android_client_info": {
+          "package_name": "com.ilibellus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186247167032-3rhar71d8t9feundecn2ivat122r3c5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbhMaGEhE9ly6e4YLdVr-FqdMqU0kJkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186247167032-3rhar71d8t9feundecn2ivat122r3c5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

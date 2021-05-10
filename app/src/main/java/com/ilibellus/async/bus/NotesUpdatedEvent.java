@@ -1,0 +1,18 @@
+package com.ilibellus.async.bus;
+
+import java.util.List;
+
+import com.ilibellus.helpers.LogDelegate;
+import com.ilibellus.models.Note;
+
+
+public class NotesUpdatedEvent {
+
+	public List<Note> notes;
+
+
+	public NotesUpdatedEvent(List<Note> notes) {
+		LogDelegate.d(this.getClass().getName());
+		this.notes = notes;
+	}
+}

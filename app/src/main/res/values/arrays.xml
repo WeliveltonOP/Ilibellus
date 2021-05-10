@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_list">
+        <item>Notas</item>
+        <item>Arquivado</item>
+        <item>Lembretes</item>
+        <item>Lixeira</item>
+        <item>Sem categoria</item>
+    </string-array>
+
+    <string-array name="navigation_list_codes">
+        <item>Notes</item>
+        <item>Archive</item>
+        <item>Reminders</item>
+        <item>Trash</item>
+        <item>Uncategorized</item>
+    </string-array>
+
+    <integer-array name="navigation_list_icons">
+        <item>@drawable/ic_file_document_black_48dp</item>
+        <item>@drawable/ic_archive_black_48dp</item>
+        <item>@drawable/ic_alarm_black_48dp</item>
+        <item>@drawable/ic_delete_black_48dp</item>
+        <item>@drawable/ic_folder_open_black_48dp</item>
+    </integer-array>
+
+    <integer-array name="navigation_list_icons_selected">
+        <item>@drawable/ic_file_document_black_48dp</item>
+        <item>@drawable/ic_archive_black_48dp</item>
+        <item>@drawable/ic_alarm_black_48dp</item>
+        <item>@drawable/ic_delete_black_48dp</item>
+        <item>@drawable/ic_folder_open_black_48dp</item>
+    </integer-array>
+
+    <string-array name="sortable_columns">
+        <item>title</item>
+        <item>creation</item>
+        <item>last_modification</item>
+        <item>alarm</item>
+    </string-array>
+
+    <string-array name="sortable_columns_human_readable">
+        <item>Título</item>
+        <item>Data de criação</item>
+        <item>Última atualização</item>
+        <item>Data de lembrete</item>
+    </string-array>
+
+    <string-array name="checked_items_behavior">
+        <item>Manter posição</item>
+        <item>Mover para o final de todos os itens</item>
+        <item>Mover para baixo dos marcados, mas acima dos não marcados</item>
+    </string-array>
+    <string-array name="checked_items_behavior_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="colors_app">
+        <item>Desativado</item>
+        <item>Apenas marcadores</item>
+        <item>Apenas lista de notas</item>
+        <item>Completo</item>
+    </string-array>
+
+    <string-array name="colors_app_values">
+        <item>disabled</item>
+        <item>strip</item>
+        <item>list</item>
+        <item>complete</item>
+    </string-array>
+
+    <string-array name="colors_widget">
+        <item>Desativado</item>
+        <item>Apenas marcadores</item>
+        <item>Lista de notas</item>
+    </string-array>
+
+    <string-array name="colors_widget_values">
+        <item>disabled</item>
+        <item>strip</item>
+        <item>list</item>
+    </string-array>
+
+    <string-array name="text_size">
+        <item>Minúsculo</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+
+    <string-array name="text_size_values">
+        <item>smallest</item>
+        <item>small</item>
+        <item>default</item>
+        <item>large</item>
+        <item>largest</item>
+    </string-array>
+
+    <integer-array name="text_size_offset">
+        <item>-3</item>
+        <item>-2</item>
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+    </integer-array>
+
+    <string-array name="languages">
+        <item>Português (Portuguese Brasil)</item>
+        <item>English (English)</item>
+    </string-array>
+
+    <string-array name="languages_codes">
+        <item>pt_BR</item>
+        <item>en_US</item>
+    </string-array>
+
+    <array name="material_colors">
+        <item>#F44336</item>
+        <item>#E91E63</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#3F51B5</item>
+        <item>#2196F3</item>
+        <item>#03A9F4</item>
+        <item>#00BCD4</item>
+        <item>#009688</item>
+        <item>#4CAF50</item>
+        <item>#8BC34A</item>
+        <item>#CDDC39</item>
+        <item>#FFEB3B</item>
+        <item>#FFC107</item>
+        <item>#FF9800</item>
+        <item>#FF5722</item>
+        <item>#795548</item>
+        <item>#9E9E9E</item>
+        <item>#607D8B</item>
+    </array>
+
+    <string-array name="attachments_actions">
+        <item>Compartilhar</item>
+        <item>Excluir</item>
+        <item>Excluir tudo</item>
+        <item>Editar</item>
+    </string-array>
+
+    <string-array name="attachments_actions_values">
+        <item>share</item>
+        <item>delete</item>
+        <item>delete all</item>
+        <item>edit</item>
+    </string-array>
+</resources>

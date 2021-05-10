@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fitsSystemWindows="true">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="settings_notification_vibration"
+        android:title="@string/settings_enable_vibration" />
+
+    <Preference
+        android:key="settings_notification_ringtone"
+        android:ringtoneType="all"
+        android:title="@string/settings_notification_ringtone" />
+
+    <EditTextPreference
+        android:key="settings_notification_snooze_delay"
+        android:title="@string/settings_notification_snooze_delay"
+        android:inputType="number"
+        android:defaultValue="10"/>
+
+    <Preference
+            android:key="settings_notification_service_listener"
+            android:title="@string/settings_notification_enable_boot_persistence"
+            android:summary="@string/settings_notification_enable_boot_persistence_summary">
+        <intent android:action="android.settings.ACTION_NOTIFICATION_LISTENER_SETTINGS"/>
+    </Preference>
+
+</PreferenceScreen>

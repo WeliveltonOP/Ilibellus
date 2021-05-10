@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:pixlui="http://schemas.android.com/apk/com.neopixl.pixlui"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
+    android:padding="@dimen/horizontal_margin" >
+
+    <com.neopixl.pixlui.components.textview.TextView
+        android:id="@+id/rate_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        pixlui:typeface="Roboto-Regular.ttf" 
+        style="@style/Text.Big"/>
+
+    <CheckBox
+        android:id="@+id/rate_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/horizontal_margin"
+        android:layout_marginTop="@dimen/horizontal_margin" 
+        style="@style/Text.Small" />
+
+</LinearLayout>
