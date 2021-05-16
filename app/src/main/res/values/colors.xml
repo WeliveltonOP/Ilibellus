@@ -7,6 +7,11 @@
     <color name="colorAccent">#F44336</color>
     <color name="colorAccentPressed">#D32F2F</color>
 
+
+<!--    <color name="colorSecondary">#5c6bc0</color>-->
+<!--    <color name="colorSecondaryDark">#5c6bc0</color>-->
+    <color name="black">#FF000000</color>
+
     <!-- Statusbar overlay -->
     <color name="statusbar_overlay">#20000000</color>
 

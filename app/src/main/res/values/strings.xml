@@ -65,7 +65,7 @@
     <string name="failed">falhou</string>
     <string name="cancel">Cancelar</string>
     <string name="note_updated">Nota atualizada</string>
-    <string name="empty_note_not_saved">Nota vazia não salva</string>
+    <string name="empty_note_not_saved">A nota não foi salva, estava vazia</string>
     <string name="empty_note_not_shared">Nota vazia não pode ser compartilhada</string>
     <string name="note_archived">Nota arquivada</string>
     <string name="note_unarchived">Nota restaurada dos arquivos</string>
@@ -138,7 +138,7 @@
     <string name="save_note_to_unlock_it">Salve a nota para desbloqueá-la</string>
     <string name="unlock">Desbloquear</string>
     <string name="title_activity_password">Editar senha de segurança</string>
-    <string name="title_activity_about">Informação</string>
+    <string name="title_activity_about">Sobre</string>
     <string name="deleted">Excluído</string>
     <string name="no_items_in_list">Nada aqui!</string>
     <string name="checklist_on">Ativar lista</string>
@@ -219,16 +219,16 @@
     <string name="permission_audio_recording">Permissão para utilizar o microfone é necessária para gravar notas de áudio</string>
     <string name="permission_coarse_location">Permissão para aceder à localização é necessária para adicionar informações de posição nas notas</string>
     <string name="permission_not_granted">Permissão não concedida</string>
-    <string name="checklist">Lista de verificação</string>
+    <string name="checklist">Checklist</string>
     <string name="text_note">Nota de texto</string>
     <string name="photo">Foto</string>
-    <string name="uncompleted_checklists">Listas de verificação incompletas</string>
-    <string name="info">Informação</string>
+    <string name="uncompleted_checklists">Checklists incompletos</string>
+    <string name="info">Sobre</string>
     <string name="completed">Concluído</string>
     <!-- Settings -->
     <string name="dashclock_description">Mostra algumas estatísticas e próximos alertas do Ilibellus</string>
     <string name="settings">Configurações</string>
-    <string name="settings_about">Informação</string>
+    <string name="settings_about">Sobre</string>
     <string name="settings_category_other">Outro</string>
     <string name="settings_reset_all_data">Excluir todos os dados</string>
     <string name="reset_all_data_confirmation">Confirmar a remoção de todos os dados do app (backups serão preservados)?</string>

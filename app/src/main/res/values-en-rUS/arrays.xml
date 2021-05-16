@@ -125,8 +125,8 @@
     </integer-array>
 
     <string-array name="languages">
-        <item>Português (Portuguese Brasil)</item>
-        <item>English (English)</item>
+        <item>Português (Brasil)</item>
+        <item>English (United States)</item>
     </string-array>
 
     <string-array name="languages_codes">
